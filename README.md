@@ -6,7 +6,7 @@
 
 - User enters a query.
 - Query gets processed (Uppercase to lowercase, Removal of punctuation marks, etc.)
-- term frequency, inverse term frequency and cosine similarity are calculated.
+- term frequency and cosine similarity are calculated.
 - plagiarism percentage will be on screen.
 
 # python_flask
